@@ -22,3 +22,9 @@ public class ComplexMain {
 
     }
 }
+OUTPUT
+
+D:\JAVA PROGRAMS>javac complexnum.java
+
+D:\JAVA PROGRAMS>java complexnum
+addition of complex numbers is 9+5i
