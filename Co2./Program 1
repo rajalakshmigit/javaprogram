@@ -36,3 +36,13 @@ public class SortString{
         sa.SortString();
     }
 }
+OUTPUT
+
+
+D:\JAVA PROGRAMS>javac SortingString.java
+
+D:\JAVA PROGRAMS>java SortingString
+Enter a string value:
+PYTHON
+sorted string is:
+HNOPTY
