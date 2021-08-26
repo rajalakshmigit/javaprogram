@@ -55,3 +55,22 @@ public class EmployeeDetails{
         Search(emp, read);
     }
 }
+OUTPUT
+
+D:\JAVA PROGRAMS>javac Employeedetails.java
+
+D:\JAVA PROGRAMS>java Employeedetails
+Enter the number of Employee : 2
+
+Enter the Employee Number : 1
+Enter the Employee Name : ANAND
+Enter the Salary : 12000
+
+Enter the Employee Number : 3
+Enter the Employee Name : SHANKAR
+Enter the Salary : 30000
+
+Enter the Employee Number to be Searched: 1
+        Details of given Employee:
+        Employee Name: ANAND
+        Employee salary: 12000.0
