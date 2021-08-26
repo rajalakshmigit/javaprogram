@@ -39,3 +39,9 @@ public class ProductMain {
 
     }
 }
+OUTPUT
+D:\JAVA PROGRAMS>javac ProductMain.java
+
+D:\JAVA PROGRAMS>java ProductMain
+
+Product having lowest price is : PEN
