@@ -55,3 +55,25 @@ public class DisplayCpuInfo {
         c1.Display(read);
     }
 }
+OUTPUT
+D:\JAVA PROGRAMS>javac DisplayCpuInfo.java
+
+D:\JAVA PROGRAMS>java DisplayCpuInfo
+
+Enter the price of the cpu:20000
+Enter no.of cores in processor:2
+Enter the manufacturer name:intel
+Enter the size of memory(in GB):8
+Enter the manufacturer name:intel
+
+Processor Details
+______
+
+extLineNo of Cores : 2
+Manufacturer : intel
+
+Memory Details
+______
+
+Memory size : 8GB
+Manufacturer : intel
