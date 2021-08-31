@@ -51,3 +51,43 @@ public class ProductBill {
         b[0].DisplayBill(OrderNo,NetAmount,b);
     }
 }
+OUTPUT
+
+D:\JAVA PROGRAMS>javac PBill.java
+
+D:\JAVA PROGRAMS>java PBill
+
+
+Enter the Order No:
+100
+Enter the Number of Products:
+2
+
+
+Enter the Product Id:
+01
+Enter the Name:
+pen
+Enter the Quality of the product:
+5
+Enter UnitPrice of the Product:
+10
+
+
+Enter the Product Id:
+02
+Enter the Name:
+pencil
+Enter the Quality of the product:
+3
+Enter UnitPrice of the Product:
+5
+
+Order No:100
+Product Id      Name            Quality         Unit Price              Total
+
+____________________________________________________________________________
+1               pen             5               10                      50
+2               pencil          3               5                       15
+_____________________________________________________________________________
+                                                                 Net Amount:65
