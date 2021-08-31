@@ -53,9 +53,9 @@ public class ProductBill {
 }
 OUTPUT
 
-D:\JAVA PROGRAMS>javac PBill.java
+D:\JAVA PROGRAMS>javac ProuductBill.java
 
-D:\JAVA PROGRAMS>java PBill
+D:\JAVA PROGRAMS>java ProductBill
 
 
 Enter the Order No:
