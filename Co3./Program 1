@@ -44,3 +44,7 @@ s.area(3);
 ref=c;
 c.area(2);
 }
+OUTPUT
+Area of rectangle :20.0
+Area of square :16.0
+Area of circle :78.5
